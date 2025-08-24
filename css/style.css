@@ -414,7 +414,7 @@
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     color: rgba(255,255,255,0.5);
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .footer .btn.btn-link:hover {
@@ -446,5 +446,3 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
-
-.Child . Medical .Pure {align-items: center;}
